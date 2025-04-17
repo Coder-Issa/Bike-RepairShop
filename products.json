@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Shimano SLX Groupset",
+        "price": 22000,
+        "image": "images/p.png"
+    },
+    {
+        "id": 1,
+        "name": "Floating Roaters",
+        "price": 5000,
+        "image": "images/p1.png"
+    },
+    {
+        "id": 1,
+        "name": "Frame",
+        "price": 26000,
+        "image": "images/p2.png"
+    },
+    {
+        "id": 1,
+        "name": "RB Bar Tape",
+        "price": 1200,
+        "image": "images/p3.png"
+    }
+]
